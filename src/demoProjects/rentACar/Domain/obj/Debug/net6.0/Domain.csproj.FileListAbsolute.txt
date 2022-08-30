@@ -1,0 +1,17 @@
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Domain.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Domain.pdb
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Core.Persistence.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\bin\Debug\net6.0\Core.Persistence.pdb
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.pdb
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Domain\obj\Debug\net6.0\ref\Domain.dll

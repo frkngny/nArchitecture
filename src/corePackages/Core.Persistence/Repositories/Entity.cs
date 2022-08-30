@@ -1,15 +1,16 @@
-﻿namespace Core.Persistence.Repositories;
-
-public class Entity
+﻿namespace Core.Persistence.Repositories
 {
-    public int Id { get; set; }
-
-    public Entity()
+    public class Entity
     {
-    }
+        public int Id { get; set; }
 
-    public Entity(int id) : this()
-    {
-        Id = id;
+        public Entity()
+        {
+        }
+
+        public Entity(int id) : this()
+        {
+            Id = id;
+        }
     }
 }

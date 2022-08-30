@@ -1,0 +1,14 @@
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\github_repos\nArchitecture\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
