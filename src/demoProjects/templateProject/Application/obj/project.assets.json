@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Core.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.CrossCuttingConcerns": "1.0.0",
+          "Core.Security": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Application.dll": {}
+        }
+      },
+      "Core.CrossCuttingConcerns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.CrossCuttingConcerns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.CrossCuttingConcerns.dll": {}
+        }
+      },
+      "Core.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Persistence.dll": {}
+        }
+      },
+      "Core.Security/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.Security.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Security.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Application/1.0.0": {
+      "type": "project",
+      "path": "../../../corePackages/Core.Application/Core.Application.csproj",
+      "msbuildProject": "../../../corePackages/Core.Application/Core.Application.csproj"
+    },
+    "Core.CrossCuttingConcerns/1.0.0": {
+      "type": "project",
+      "path": "../../../corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj",
+      "msbuildProject": "../../../corePackages/Core.CrossCuttingConcers/Core.CrossCuttingConcerns.csproj"
+    },
+    "Core.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../../corePackages/Core.Persistence/Core.Persistence.csproj",
+      "msbuildProject": "../../../corePackages/Core.Persistence/Core.Persistence.csproj"
+    },
+    "Core.Security/1.0.0": {
+      "type": "project",
+      "path": "../../../corePackages/Core.Security/Core.Security.csproj",
+      "msbuildProject": "../../../corePackages/Core.Security/Core.Security.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Core.Application >= 1.0.0",
+      "Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Win10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\github_repos\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "D:\\github_repos\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+      "outputPath": "D:\\github_repos\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\github_repos\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+              "projectPath": "D:\\github_repos\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+            },
+            "D:\\github_repos\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\github_repos\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
